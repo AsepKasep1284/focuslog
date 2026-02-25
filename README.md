@@ -1,5 +1,9 @@
 # focuslog
 
+<p align="center">
+  <img width="1280" src="/assets/easteregg.jpeg" alt="Easter Egg">
+</p>
+
 Tiny Python library for tracking focus/work sessions.
 
 It provides a minimal `Session` object to measure how long a task runs,
